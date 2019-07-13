@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_end">8dp</dimen>
+    <dimen name="activity_margin_start">8dp</dimen>
+    <dimen name="activity_margin_top">32dp</dimen>
+    <dimen name="profile_activity_txt_marginBottom">18dp</dimen>
+    <dimen name="welcome_activity_btn_width">250dp</dimen>
+    <dimen name="welcome_activty_text_marginTop">136dp</dimen>
+    <dimen name="welcome_activity_text_view_width">200dp</dimen>
+    <dimen name="profile_activity_relativelayout_height">370dp</dimen>
+    <dimen name="profile_activity_linearlayout_height">300dp</dimen>
+    <dimen name="profile_activity_imageView_hight">227dp</dimen>
+    <dimen name="profile_activity_imageview_height">198dp</dimen>
+    <dimen name="profile_activity_imageview_marginTop">20dp</dimen>
+    <dimen name="profile_activity_textview_margintop">3dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_marginTop">260dp</dimen>
+    <dimen name="card_width">300dp</dimen>
+    <dimen name="card_height">90dp</dimen>
+    <dimen name="textView_wh">50dp</dimen>
+    <dimen name="bigcard_width">300dp</dimen>
+    <dimen name="bigcard_height">220dp</dimen>
+    <dimen name="profileActivity_margin">8dp</dimen>
+    <dimen name="profile_activity_tv_margin_top">16dp</dimen>
+</resources>

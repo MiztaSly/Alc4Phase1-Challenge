@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3359df</color>
+    <color name="colorPrimaryDark">#3359df</color>
+    <color name="startblue">#3359df</color>
+    <color name="colorAccent">#3359df</color>
+    <color name="graylight">#fafafa</color>
+    <color name="endblue">#3359df</color>
+</resources>

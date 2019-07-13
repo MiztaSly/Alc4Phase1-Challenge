@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="student_name">Sylvester Akwaowo</string>
+    <string name="student_email">Email:       ultrasoft101@gmail.com</string>
+    <string name="student_country">Country:     Ghana</string>
+    <string name="student_mobile">Phone Number:    +233 557748335</string>
+    <string name="student_slack_handle">Slack Username: @miztasly</string>
+    <string name="student_track">Track: Android</string>
+    <string name="notification_error_ssl_cert_invalid">Invalid SSL Certificate</string>
+    <string name="user_confirmation_ok">OK</string>
+    <string name="error_message_no_internet">No Internet</string>
+    <string name="check_internet">Please check your internet connection</string>
+    <string name="Error_no_internet_message">Please Check your Internet Connection and reload the page</string>
+    <string name="sly_fb_profile">https://www.facebook.com/zylakwaowo</string>
+    <string name="about_app_builder">Built by Sylvester Akwaowo, Alc4 Phase 1 - First Challenge</string>
+    <string name="about_app">ABOUT APP</string>
+    <string name="page_access_error">Cannot access the Webpage!</string>
+    <string name="user_prompt_continue">Continue</string>
+    <string name="user_prompt_cancel">Cancel</string>
+    <string name="mizta_sly">\@Mizta Sly</string>
+    <string name="not_yet_response">Lolz...not yet!</string>
+    <string name="twitter_handle_mizta">https://twitter.com/MiztaSly</string>
+    <string name="alc_phase_1">ALC4 Phase 1</string>
+    <string name="andela_about_page">https://andela.com/alc/</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="content_description_twitter_link">A link to twitter</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="facebook_profile_link">facebook profile link</string>
+    <string name="youtube_profile_link">youtube profile link</string>
+</resources>
